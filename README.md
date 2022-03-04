@@ -1,0 +1,1 @@
+# odoo-technical-training-15.0
