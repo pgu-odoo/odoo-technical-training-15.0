@@ -22,6 +22,7 @@
     ],
 
     'data': [
+        'views/course_views.xml',
 
     ],
     'license': 'LGPL-3'
