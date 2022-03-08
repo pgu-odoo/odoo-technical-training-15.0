@@ -26,6 +26,7 @@
         'security/ir.model.access.csv',
         'views/course_views.xml',
         'views/academy_menuitems.xml',
+        'views/session_views.xml',
 
     ],
     'license': 'LGPL-3'
