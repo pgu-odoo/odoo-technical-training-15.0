@@ -14,7 +14,7 @@
 
     'website': 'https://www.odoo.com',
 
-    'depends': ['base_setup'],
+    'depends': ['sale'],
 
     'demo': [
         'demo/academy_demo.xml',
@@ -27,6 +27,7 @@
         'views/course_views.xml',
         'views/academy_menuitems.xml',
         'views/session_views.xml',
+        'views/sale_views_inherit.xml',
 
     ],
     'license': 'LGPL-3'
